@@ -7,7 +7,6 @@ using namespace std;
 bool es_valido(int a, int b, int c) {
     return (a + b > c) && (a + c > b) && (b + c > a);
 }
-
 //determinar el tipo de triagulo
 string tipo_triangulo(int a, int b, int c) {
     if (a == b && b == c) {
