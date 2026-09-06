@@ -1,0 +1,12 @@
+1. C
+2. B
+3. B
+4. C
+5. D
+6. el error esta en que el valor de a se cambia por b antes de calcular el residuo,
+entonces el resultado cuando se hace la operacion ambos valores ya son iguales por asi decirlo
+entonces el residuo termina siendo 0 y eso rompe la logica del algoritomo de euclides 
+7. D
+8. A
+9. B
+10. D
